@@ -9,3 +9,8 @@ git config --global user.name "Your Name"
 
 git commit -m "First commit"
 
+
+git remote add origin https://github.com/Emadeddin/git-example-project.git
+git branch -M main
+git push -u origin main
+
